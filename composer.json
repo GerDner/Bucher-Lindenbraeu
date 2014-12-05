@@ -17,7 +17,7 @@
         "doctrine/dbal":"2.5.x-dev",
         "doctrine/migrations":"dev-master",
         "symfony/console":"~2.5",
-        "doctrine/orm":"dev-master",
+        "doctrine/orm":"2.3.x-dev",
         "symfony/dom-crawler":"dev-master",
         "symfony/yaml":"dev-master",
         "typo3/eel":"dev-master",
