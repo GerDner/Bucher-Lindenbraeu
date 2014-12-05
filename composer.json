@@ -4,6 +4,7 @@
     "description": "Add description here",
     "require": {
         "typo3/neos": "dev-master",
+        "typo3/flow": "dev-master",
         "typo3/neos-nodetypes": "dev-master",
         "typo3/neos-kickstarter": "dev-master",
         "TYPO3/Surf": "dev-master",
@@ -14,8 +15,8 @@
         "doctrine/inflector":"dev-master",
         "doctrine/common":"dev-master",
         "doctrine/dbal":"dev-master",
-        "doctrine/migrations ":"dev-master",
-        "symfony/console ":"dev-master",
+        "doctrine/migrations":"dev-master",
+        "symfony/console":"dev-master",
         "doctrine/orm":"dev-master",
         "symfony/dom-crawler":"dev-master",
         "symfony/yaml":"dev-master",
