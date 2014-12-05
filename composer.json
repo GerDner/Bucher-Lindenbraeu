@@ -3,8 +3,18 @@
     "type": "typo3-flow-site",
     "description": "Add description here",
     "require": {
-        "typo3/neos": "*",
-        "typo3/neos-nodetypes": "*"
+        "typo3/neos": "dev-master",
+        "typo3/neos-nodetypes": "dev-master",
+        "typo3/neosdemotypo3org": "dev-master",
+        "typo3/neos-kickstarter": "dev-master",
+        "TYPO3/Surf": "dev-master"
+    },
+    "require-dev": {
+        "typo3/buildessentials": "dev-master",
+        "mikey179/vfsstream": "1.4.*",
+        "phpunit/phpunit": "4.3.*",
+        "flowpack/behat": "dev-master",
+        "typo3-ci/typo3flow": "dev-master"
     },
     "suggest": {
         "typo3/neos-seo": "*"
