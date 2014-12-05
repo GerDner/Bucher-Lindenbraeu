@@ -15,6 +15,8 @@
         "flowpack/behat": "dev-master",
         "typo3-ci/typo3flow": "dev-master"
     },
+    "minimum-stability": "dev",
+    "prefer-stable" : true,
     "suggest": {
         "typo3/neos-seo": "*"
     },
