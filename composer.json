@@ -14,7 +14,7 @@
         "doctrine/cache":"dev-master",
         "doctrine/inflector":"dev-master",
         "doctrine/common":"dev-master",
-        "doctrine/dbal":"dev-master",
+        "doctrine/dbal":"2.5.x-dev",
         "doctrine/migrations":"dev-master",
         "symfony/console":"~2.5",
         "doctrine/orm":"dev-master",
