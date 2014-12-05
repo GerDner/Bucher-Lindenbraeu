@@ -3,10 +3,10 @@
     "type": "typo3-flow-site",
     "description": "Add description here",
     "require": {
-        "typo3/neos": "dev-master@dev",
-        "typo3/neos-nodetypes": "dev-master@dev",
-        "typo3/neos-kickstarter": "dev-master@dev",
-        "TYPO3/Surf": "dev-master@dev"
+        "typo3/neos": "@dev",
+        "typo3/neos-nodetypes": "@dev",
+        "typo3/neos-kickstarter": "@dev",
+        "TYPO3/Surf": "@dev"
     },
     "require-dev": {
         "typo3/buildessentials": "dev-master",
